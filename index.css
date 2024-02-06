@@ -1,20 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
+    font-size: 18px; /* Adjust the size as per your requirement */
 }
 
-.container {
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 h1 {
-    color: #333;
-    font-size: 3rem;
-    text-align: center;
+    font-size: 24px; /* Adjust the size as per your requirement */
+}
+
+p {
+    font-size: 16px; /* Adjust the size as per your requirement */
 }
