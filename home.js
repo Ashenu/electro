@@ -1,8 +1,4 @@
 // home.js
-
 function helloWorld() {
-    console.log("Hello, World!");
+    console.log("Hello, world!");
 }
-
-// Call the function
-helloWorld();
